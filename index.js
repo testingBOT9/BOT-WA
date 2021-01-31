@@ -2,6 +2,6 @@ const {
     WaConnection
     MessageType
     Presence
-    Nimetype
+    Mimetype
 } = require('adiwajshing/Baileys')
 
